@@ -1,0 +1,10 @@
+In order for the script to run the following packages has to be installed: 
+- pandas 
+- numpy
+- spacytextblob  
+- vaderSentiment 
+- scikit-learn
+- tensorflow 
+- contractions 
+- beautifulsoup4  
+- nltk 
