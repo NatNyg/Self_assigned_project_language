@@ -8,3 +8,5 @@ In order for the script to run the following packages has to be installed:
 - contractions 
 - beautifulsoup4  
 - nltk 
+- tqdm
+
