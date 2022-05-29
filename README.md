@@ -36,11 +36,11 @@ For this project I have made one script containing both sentiment analysis metho
 
 In order to reproduce the results I have gotten (and which can be found in the "out" folder), a few steps has to be followed:
 
-- Install the relevant packages - relevant packages for both scripts can be found in the "requirements.txt" file.
+- Install the relevant packages - relevant packages for the script can be found in the "requirements.txt" file.
 - Make sure to place the script in the "src" folder and the data in the "in" folder. The data used for this project can be accessed on the following page: https://www.kaggle.com/code/ahmedterry/disneyland-reviews-nlp-sentiment-analysis/notebook 
 - Run the script from the terminal and remember to pass the required arguments: -ds (dataset) and -sm (sentiment_method) -> Make sure to navigate to the main folder before executing the script - then you just have to type the following in the terminal:
 
-"python src/sentiment_and_class.py -ds {name_of_the_dataset} -sm {sentiment_method}" 
+python src/sentiment_and_class.py -ds {name_of_the_dataset} -sm {sentiment_method} 
 
 This should give you the same results as I have gotten in the "out" folder.
 
